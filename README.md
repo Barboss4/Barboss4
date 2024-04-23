@@ -1,4 +1,4 @@
-# Hi there! I'm Iuri 👋🏼
+# Hello Folks! Iuri is here! 👋🏼
 
 🎓 Currently pursuing a degree in Computer Science  
 🔬 Background in pharmacy with a master's degree  
