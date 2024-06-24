@@ -14,6 +14,12 @@ Here are some of my main repositories:
 - [Punchout 🎮](https://github.com/Barboss4/Punchout): This code utilizes a combined neural network of DQN and CNN to process information from the Punch-Out game screen and predict the keys to be pressed. It integrates real-time screen capture, neural network training with Q-Learning, and action exploration/expansion. The autonomous system is efficient and capable of controlling the game.
 - [Data Science projects 🎲🤖](https://github.com/Barboss4/Data-science-projects): Some datascience projects i used to learn about it.
 
+- [Screen translator](https://github.com/Barboss4/screen-translator): This project helps you translate text without needing to copy and paste it into Google Translate. It's useful for some games or pages/files that do not allow text copying.
+
+- [invisible maze](https://barboss4.github.io/labirintite/): A maze game where the walls are invisible, challenging your memory and spatial awareness.
+- [Pick a button](https://barboss4.github.io/pickabuton/): A simple game where you have to find the correct button among many options.
+- [head or tail](https://barboss4.github.io/Caracol/): A straightforward heads or tails game, offering a quick and easy way to test your luck.
+
 ## Tech Stack 🛠
 
 - Programming Languages: Python
